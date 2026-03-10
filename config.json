@@ -1,0 +1,17 @@
+{
+    "path": {
+        "data": {
+            "moteLocation": "data/moteLocation.txt",
+            "moteConnection": "data/moteConnection.txt",
+            "moteReading": "data/moteReading.txt"
+        },
+        "output": "output"
+    },
+    "baseStation": {
+        "x": 50,
+        "y": 200
+    },
+    "simulation": {
+        "rounds": 2000
+    }
+}
